@@ -2,8 +2,9 @@
 	"name": "Theme-GitHubCleanWhite",
     "displayName": "GitHub Clean White Theme",
 	"description": "GitHub-like Theme for Visual Studio Code",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"publisher": "saviorisdead",
+	"repository": "https://github.com/saviorisdead/vscode-github-clean-white-theme",
 	"engines": {
 		"vscode": "^0.10.1"
 	},
